@@ -1,0 +1,61 @@
+{
+  "qa_hash": "6057af19ccde7e1c",
+  "generation": {
+    "model": "gemini-3.6-flash",
+    "system_instruction": "You are the Visual-Doc Assistant, a technical documentation Q&A system. Answer the user's question using ONLY the page image(s) provided below -- do not use outside knowledge. Reference the source document and page number when relevant. If the provided pages don't contain the answer, say so directly instead of guessing.",
+    "pages_per_question": 1,
+    "input": "page image(s) as PNG, question as text"
+  },
+  "judge": {
+    "models_used": {
+      "None": 26,
+      "gemini-3.5-flash-lite": 4
+    },
+    "note": "same family as the generator; second opinion only"
+  },
+  "visual_arm_retrieval": {
+    "model": "vidore/colpali-v1.2",
+    "mode": "exhaustive MaxSim over all pages, no doc filter",
+    "pages_indexed": 521,
+    "docs": {
+      "2407.01449v6": 26,
+      "AIFoundations": 136,
+      "WorldDevelopmentReport": 359
+    },
+    "retrieval_device": "cpu (Section 6 ran on CPU; bf16 numerics can differ on GPU)"
+  },
+  "metrics": {
+    "recall_ks": [
+      1,
+      3,
+      5,
+      10
+    ],
+    "mrr": "MRR@10",
+    "ndcg": "nDCG@5 (single relevant page)",
+    "module": "eval_metrics.py"
+  },
+  "answer_verdict_rule": "manual override > LLM judge > strict keyword scorer",
+  "manual_overrides": {
+    "3": false,
+    "4": false,
+    "27": false
+  },
+  "environment": {
+    "device": "cpu",
+    "gpu": "none (CPU)",
+    "python": "3.13.18",
+    "versions": {
+      "colpali-engine": "0.3.18",
+      "transformers": "5.22.1",
+      "peft": "0.20.0",
+      "torch": "2.13.0",
+      "chromadb": "1.5.9",
+      "google-genai": "3.6.1",
+      "numpy": "2.4.6",
+      "pandas": "2.2.3",
+      "pillow": "11.3.0"
+    },
+    "date": "2026-11-19"
+  }
+}

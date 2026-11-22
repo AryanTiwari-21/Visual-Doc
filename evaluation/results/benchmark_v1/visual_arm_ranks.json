@@ -1,0 +1,1446 @@
+{
+  "qa_hash": "6057af19ccde7e1c",
+  "arm": "ColPali + exhaustive MaxSim",
+  "results": [
+    {
+      "idx": 0,
+      "doc_name": "2407.01449v6",
+      "gold_page": 1,
+      "rank_of_gold": 7,
+      "top10": [
+        [
+          "2407.01449v6",
+          4
+        ],
+        [
+          "2407.01449v6",
+          2
+        ],
+        [
+          "2407.01449v6",
+          10
+        ],
+        [
+          "2407.01449v6",
+          19
+        ],
+        [
+          "2407.01449v6",
+          3
+        ],
+        [
+          "2407.01449v6",
+          5
+        ],
+        [
+          "2407.01449v6",
+          1
+        ],
+        [
+          "2407.01449v6",
+          12
+        ],
+        [
+          "2407.01449v6",
+          8
+        ],
+        [
+          "2407.01449v6",
+          6
+        ]
+      ]
+    },
+    {
+      "idx": 1,
+      "doc_name": "2407.01449v6",
+      "gold_page": 2,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "2407.01449v6",
+          2
+        ],
+        [
+          "2407.01449v6",
+          18
+        ],
+        [
+          "2407.01449v6",
+          8
+        ],
+        [
+          "2407.01449v6",
+          9
+        ],
+        [
+          "2407.01449v6",
+          1
+        ],
+        [
+          "2407.01449v6",
+          19
+        ],
+        [
+          "2407.01449v6",
+          5
+        ],
+        [
+          "2407.01449v6",
+          6
+        ],
+        [
+          "2407.01449v6",
+          10
+        ],
+        [
+          "2407.01449v6",
+          22
+        ]
+      ]
+    },
+    {
+      "idx": 2,
+      "doc_name": "2407.01449v6",
+      "gold_page": 4,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "2407.01449v6",
+          4
+        ],
+        [
+          "2407.01449v6",
+          18
+        ],
+        [
+          "2407.01449v6",
+          16
+        ],
+        [
+          "2407.01449v6",
+          2
+        ],
+        [
+          "2407.01449v6",
+          7
+        ],
+        [
+          "2407.01449v6",
+          9
+        ],
+        [
+          "2407.01449v6",
+          10
+        ],
+        [
+          "2407.01449v6",
+          6
+        ],
+        [
+          "2407.01449v6",
+          21
+        ],
+        [
+          "2407.01449v6",
+          14
+        ]
+      ]
+    },
+    {
+      "idx": 3,
+      "doc_name": "2407.01449v6",
+      "gold_page": 5,
+      "rank_of_gold": 3,
+      "top10": [
+        [
+          "2407.01449v6",
+          19
+        ],
+        [
+          "2407.01449v6",
+          8
+        ],
+        [
+          "2407.01449v6",
+          5
+        ],
+        [
+          "2407.01449v6",
+          22
+        ],
+        [
+          "2407.01449v6",
+          18
+        ],
+        [
+          "2407.01449v6",
+          9
+        ],
+        [
+          "2407.01449v6",
+          21
+        ],
+        [
+          "2407.01449v6",
+          2
+        ],
+        [
+          "2407.01449v6",
+          7
+        ],
+        [
+          "2407.01449v6",
+          6
+        ]
+      ]
+    },
+    {
+      "idx": 4,
+      "doc_name": "2407.01449v6",
+      "gold_page": 7,
+      "rank_of_gold": 3,
+      "top10": [
+        [
+          "2407.01449v6",
+          10
+        ],
+        [
+          "2407.01449v6",
+          21
+        ],
+        [
+          "2407.01449v6",
+          7
+        ],
+        [
+          "2407.01449v6",
+          8
+        ],
+        [
+          "2407.01449v6",
+          18
+        ],
+        [
+          "2407.01449v6",
+          4
+        ],
+        [
+          "2407.01449v6",
+          16
+        ],
+        [
+          "2407.01449v6",
+          9
+        ],
+        [
+          "2407.01449v6",
+          2
+        ],
+        [
+          "2407.01449v6",
+          19
+        ]
+      ]
+    },
+    {
+      "idx": 5,
+      "doc_name": "2407.01449v6",
+      "gold_page": 9,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "2407.01449v6",
+          9
+        ],
+        [
+          "2407.01449v6",
+          2
+        ],
+        [
+          "2407.01449v6",
+          4
+        ],
+        [
+          "2407.01449v6",
+          10
+        ],
+        [
+          "2407.01449v6",
+          5
+        ],
+        [
+          "2407.01449v6",
+          7
+        ],
+        [
+          "2407.01449v6",
+          21
+        ],
+        [
+          "2407.01449v6",
+          12
+        ],
+        [
+          "2407.01449v6",
+          8
+        ],
+        [
+          "WorldDevelopmentReport",
+          110
+        ]
+      ]
+    },
+    {
+      "idx": 6,
+      "doc_name": "2407.01449v6",
+      "gold_page": 18,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "2407.01449v6",
+          18
+        ],
+        [
+          "2407.01449v6",
+          8
+        ],
+        [
+          "2407.01449v6",
+          1
+        ],
+        [
+          "2407.01449v6",
+          5
+        ],
+        [
+          "2407.01449v6",
+          19
+        ],
+        [
+          "2407.01449v6",
+          2
+        ],
+        [
+          "2407.01449v6",
+          9
+        ],
+        [
+          "2407.01449v6",
+          21
+        ],
+        [
+          "2407.01449v6",
+          6
+        ],
+        [
+          "2407.01449v6",
+          10
+        ]
+      ]
+    },
+    {
+      "idx": 7,
+      "doc_name": "2407.01449v6",
+      "gold_page": 19,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "2407.01449v6",
+          19
+        ],
+        [
+          "2407.01449v6",
+          5
+        ],
+        [
+          "2407.01449v6",
+          8
+        ],
+        [
+          "2407.01449v6",
+          17
+        ],
+        [
+          "2407.01449v6",
+          18
+        ],
+        [
+          "2407.01449v6",
+          7
+        ],
+        [
+          "2407.01449v6",
+          4
+        ],
+        [
+          "2407.01449v6",
+          2
+        ],
+        [
+          "WorldDevelopmentReport",
+          187
+        ],
+        [
+          "2407.01449v6",
+          9
+        ]
+      ]
+    },
+    {
+      "idx": 8,
+      "doc_name": "2407.01449v6",
+      "gold_page": 21,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "2407.01449v6",
+          21
+        ],
+        [
+          "2407.01449v6",
+          4
+        ],
+        [
+          "2407.01449v6",
+          10
+        ],
+        [
+          "2407.01449v6",
+          7
+        ],
+        [
+          "2407.01449v6",
+          9
+        ],
+        [
+          "2407.01449v6",
+          18
+        ],
+        [
+          "2407.01449v6",
+          2
+        ],
+        [
+          "2407.01449v6",
+          5
+        ],
+        [
+          "2407.01449v6",
+          6
+        ],
+        [
+          "2407.01449v6",
+          1
+        ]
+      ]
+    },
+    {
+      "idx": 9,
+      "doc_name": "2407.01449v6",
+      "gold_page": 22,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "2407.01449v6",
+          22
+        ],
+        [
+          "2407.01449v6",
+          23
+        ],
+        [
+          "2407.01449v6",
+          9
+        ],
+        [
+          "2407.01449v6",
+          2
+        ],
+        [
+          "2407.01449v6",
+          6
+        ],
+        [
+          "2407.01449v6",
+          3
+        ],
+        [
+          "2407.01449v6",
+          5
+        ],
+        [
+          "WorldDevelopmentReport",
+          238
+        ],
+        [
+          "2407.01449v6",
+          8
+        ],
+        [
+          "WorldDevelopmentReport",
+          33
+        ]
+      ]
+    },
+    {
+      "idx": 10,
+      "doc_name": "WorldDevelopmentReport",
+      "gold_page": 36,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "WorldDevelopmentReport",
+          36
+        ],
+        [
+          "WorldDevelopmentReport",
+          103
+        ],
+        [
+          "WorldDevelopmentReport",
+          42
+        ],
+        [
+          "WorldDevelopmentReport",
+          87
+        ],
+        [
+          "WorldDevelopmentReport",
+          41
+        ],
+        [
+          "WorldDevelopmentReport",
+          340
+        ],
+        [
+          "WorldDevelopmentReport",
+          9
+        ],
+        [
+          "WorldDevelopmentReport",
+          185
+        ],
+        [
+          "WorldDevelopmentReport",
+          121
+        ],
+        [
+          "WorldDevelopmentReport",
+          110
+        ]
+      ]
+    },
+    {
+      "idx": 11,
+      "doc_name": "WorldDevelopmentReport",
+      "gold_page": 78,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "WorldDevelopmentReport",
+          78
+        ],
+        [
+          "WorldDevelopmentReport",
+          257
+        ],
+        [
+          "WorldDevelopmentReport",
+          104
+        ],
+        [
+          "WorldDevelopmentReport",
+          80
+        ],
+        [
+          "WorldDevelopmentReport",
+          32
+        ],
+        [
+          "WorldDevelopmentReport",
+          105
+        ],
+        [
+          "WorldDevelopmentReport",
+          198
+        ],
+        [
+          "AIFoundations",
+          96
+        ],
+        [
+          "WorldDevelopmentReport",
+          39
+        ],
+        [
+          "WorldDevelopmentReport",
+          79
+        ]
+      ]
+    },
+    {
+      "idx": 12,
+      "doc_name": "WorldDevelopmentReport",
+      "gold_page": 83,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "WorldDevelopmentReport",
+          83
+        ],
+        [
+          "WorldDevelopmentReport",
+          39
+        ],
+        [
+          "WorldDevelopmentReport",
+          81
+        ],
+        [
+          "WorldDevelopmentReport",
+          38
+        ],
+        [
+          "WorldDevelopmentReport",
+          108
+        ],
+        [
+          "WorldDevelopmentReport",
+          11
+        ],
+        [
+          "WorldDevelopmentReport",
+          89
+        ],
+        [
+          "WorldDevelopmentReport",
+          254
+        ],
+        [
+          "WorldDevelopmentReport",
+          91
+        ],
+        [
+          "WorldDevelopmentReport",
+          257
+        ]
+      ]
+    },
+    {
+      "idx": 13,
+      "doc_name": "WorldDevelopmentReport",
+      "gold_page": 128,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "WorldDevelopmentReport",
+          128
+        ],
+        [
+          "WorldDevelopmentReport",
+          32
+        ],
+        [
+          "AIFoundations",
+          53
+        ],
+        [
+          "WorldDevelopmentReport",
+          129
+        ],
+        [
+          "WorldDevelopmentReport",
+          33
+        ],
+        [
+          "WorldDevelopmentReport",
+          238
+        ],
+        [
+          "WorldDevelopmentReport",
+          180
+        ],
+        [
+          "AIFoundations",
+          68
+        ],
+        [
+          "AIFoundations",
+          58
+        ],
+        [
+          "WorldDevelopmentReport",
+          231
+        ]
+      ]
+    },
+    {
+      "idx": 14,
+      "doc_name": "WorldDevelopmentReport",
+      "gold_page": 132,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "WorldDevelopmentReport",
+          132
+        ],
+        [
+          "WorldDevelopmentReport",
+          108
+        ],
+        [
+          "WorldDevelopmentReport",
+          158
+        ],
+        [
+          "WorldDevelopmentReport",
+          183
+        ],
+        [
+          "WorldDevelopmentReport",
+          14
+        ],
+        [
+          "WorldDevelopmentReport",
+          50
+        ],
+        [
+          "WorldDevelopmentReport",
+          202
+        ],
+        [
+          "WorldDevelopmentReport",
+          131
+        ],
+        [
+          "WorldDevelopmentReport",
+          157
+        ],
+        [
+          "WorldDevelopmentReport",
+          127
+        ]
+      ]
+    },
+    {
+      "idx": 15,
+      "doc_name": "WorldDevelopmentReport",
+      "gold_page": 155,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "WorldDevelopmentReport",
+          155
+        ],
+        [
+          "WorldDevelopmentReport",
+          49
+        ],
+        [
+          "WorldDevelopmentReport",
+          152
+        ],
+        [
+          "WorldDevelopmentReport",
+          146
+        ],
+        [
+          "WorldDevelopmentReport",
+          147
+        ],
+        [
+          "WorldDevelopmentReport",
+          48
+        ],
+        [
+          "WorldDevelopmentReport",
+          151
+        ],
+        [
+          "AIFoundations",
+          117
+        ],
+        [
+          "WorldDevelopmentReport",
+          153
+        ],
+        [
+          "WorldDevelopmentReport",
+          158
+        ]
+      ]
+    },
+    {
+      "idx": 16,
+      "doc_name": "WorldDevelopmentReport",
+      "gold_page": 198,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "WorldDevelopmentReport",
+          198
+        ],
+        [
+          "WorldDevelopmentReport",
+          29
+        ],
+        [
+          "WorldDevelopmentReport",
+          197
+        ],
+        [
+          "WorldDevelopmentReport",
+          65
+        ],
+        [
+          "WorldDevelopmentReport",
+          257
+        ],
+        [
+          "WorldDevelopmentReport",
+          181
+        ],
+        [
+          "AIFoundations",
+          96
+        ],
+        [
+          "AIFoundations",
+          84
+        ],
+        [
+          "WorldDevelopmentReport",
+          105
+        ],
+        [
+          "AIFoundations",
+          107
+        ]
+      ]
+    },
+    {
+      "idx": 17,
+      "doc_name": "WorldDevelopmentReport",
+      "gold_page": 227,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "WorldDevelopmentReport",
+          227
+        ],
+        [
+          "WorldDevelopmentReport",
+          30
+        ],
+        [
+          "WorldDevelopmentReport",
+          34
+        ],
+        [
+          "WorldDevelopmentReport",
+          130
+        ],
+        [
+          "WorldDevelopmentReport",
+          32
+        ],
+        [
+          "AIFoundations",
+          55
+        ],
+        [
+          "AIFoundations",
+          84
+        ],
+        [
+          "WorldDevelopmentReport",
+          231
+        ],
+        [
+          "WorldDevelopmentReport",
+          239
+        ],
+        [
+          "WorldDevelopmentReport",
+          33
+        ]
+      ]
+    },
+    {
+      "idx": 18,
+      "doc_name": "WorldDevelopmentReport",
+      "gold_page": 243,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "WorldDevelopmentReport",
+          243
+        ],
+        [
+          "WorldDevelopmentReport",
+          227
+        ],
+        [
+          "AIFoundations",
+          55
+        ],
+        [
+          "WorldDevelopmentReport",
+          39
+        ],
+        [
+          "WorldDevelopmentReport",
+          68
+        ],
+        [
+          "AIFoundations",
+          52
+        ],
+        [
+          "WorldDevelopmentReport",
+          146
+        ],
+        [
+          "WorldDevelopmentReport",
+          239
+        ],
+        [
+          "WorldDevelopmentReport",
+          93
+        ],
+        [
+          "WorldDevelopmentReport",
+          61
+        ]
+      ]
+    },
+    {
+      "idx": 19,
+      "doc_name": "WorldDevelopmentReport",
+      "gold_page": 285,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "WorldDevelopmentReport",
+          285
+        ],
+        [
+          "WorldDevelopmentReport",
+          59
+        ],
+        [
+          "AIFoundations",
+          96
+        ],
+        [
+          "WorldDevelopmentReport",
+          153
+        ],
+        [
+          "AIFoundations",
+          97
+        ],
+        [
+          "AIFoundations",
+          107
+        ],
+        [
+          "WorldDevelopmentReport",
+          154
+        ],
+        [
+          "AIFoundations",
+          95
+        ],
+        [
+          "AIFoundations",
+          104
+        ],
+        [
+          "WorldDevelopmentReport",
+          147
+        ]
+      ]
+    },
+    {
+      "idx": 20,
+      "doc_name": "AIFoundations",
+      "gold_page": 15,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "AIFoundations",
+          15
+        ],
+        [
+          "AIFoundations",
+          17
+        ],
+        [
+          "AIFoundations",
+          34
+        ],
+        [
+          "AIFoundations",
+          61
+        ],
+        [
+          "AIFoundations",
+          47
+        ],
+        [
+          "AIFoundations",
+          93
+        ],
+        [
+          "AIFoundations",
+          36
+        ],
+        [
+          "AIFoundations",
+          23
+        ],
+        [
+          "AIFoundations",
+          16
+        ],
+        [
+          "AIFoundations",
+          68
+        ]
+      ]
+    },
+    {
+      "idx": 21,
+      "doc_name": "AIFoundations",
+      "gold_page": 37,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "AIFoundations",
+          37
+        ],
+        [
+          "AIFoundations",
+          10
+        ],
+        [
+          "WorldDevelopmentReport",
+          32
+        ],
+        [
+          "AIFoundations",
+          101
+        ],
+        [
+          "WorldDevelopmentReport",
+          136
+        ],
+        [
+          "WorldDevelopmentReport",
+          105
+        ],
+        [
+          "AIFoundations",
+          38
+        ],
+        [
+          "WorldDevelopmentReport",
+          79
+        ],
+        [
+          "WorldDevelopmentReport",
+          128
+        ],
+        [
+          "AIFoundations",
+          106
+        ]
+      ]
+    },
+    {
+      "idx": 22,
+      "doc_name": "AIFoundations",
+      "gold_page": 40,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "AIFoundations",
+          40
+        ],
+        [
+          "WorldDevelopmentReport",
+          78
+        ],
+        [
+          "WorldDevelopmentReport",
+          79
+        ],
+        [
+          "WorldDevelopmentReport",
+          39
+        ],
+        [
+          "WorldDevelopmentReport",
+          104
+        ],
+        [
+          "WorldDevelopmentReport",
+          89
+        ],
+        [
+          "WorldDevelopmentReport",
+          97
+        ],
+        [
+          "WorldDevelopmentReport",
+          80
+        ],
+        [
+          "AIFoundations",
+          83
+        ],
+        [
+          "WorldDevelopmentReport",
+          228
+        ]
+      ]
+    },
+    {
+      "idx": 23,
+      "doc_name": "AIFoundations",
+      "gold_page": 53,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "AIFoundations",
+          53
+        ],
+        [
+          "AIFoundations",
+          52
+        ],
+        [
+          "AIFoundations",
+          9
+        ],
+        [
+          "AIFoundations",
+          51
+        ],
+        [
+          "WorldDevelopmentReport",
+          257
+        ],
+        [
+          "AIFoundations",
+          50
+        ],
+        [
+          "AIFoundations",
+          69
+        ],
+        [
+          "AIFoundations",
+          47
+        ],
+        [
+          "AIFoundations",
+          40
+        ],
+        [
+          "WorldDevelopmentReport",
+          89
+        ]
+      ]
+    },
+    {
+      "idx": 24,
+      "doc_name": "AIFoundations",
+      "gold_page": 85,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "AIFoundations",
+          85
+        ],
+        [
+          "2407.01449v6",
+          18
+        ],
+        [
+          "AIFoundations",
+          79
+        ],
+        [
+          "AIFoundations",
+          87
+        ],
+        [
+          "AIFoundations",
+          82
+        ],
+        [
+          "2407.01449v6",
+          11
+        ],
+        [
+          "AIFoundations",
+          84
+        ],
+        [
+          "AIFoundations",
+          37
+        ],
+        [
+          "AIFoundations",
+          89
+        ],
+        [
+          "WorldDevelopmentReport",
+          32
+        ]
+      ]
+    },
+    {
+      "idx": 25,
+      "doc_name": "AIFoundations",
+      "gold_page": 95,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "AIFoundations",
+          95
+        ],
+        [
+          "WorldDevelopmentReport",
+          101
+        ],
+        [
+          "WorldDevelopmentReport",
+          127
+        ],
+        [
+          "WorldDevelopmentReport",
+          143
+        ],
+        [
+          "AIFoundations",
+          116
+        ],
+        [
+          "AIFoundations",
+          96
+        ],
+        [
+          "WorldDevelopmentReport",
+          37
+        ],
+        [
+          "WorldDevelopmentReport",
+          14
+        ],
+        [
+          "AIFoundations",
+          107
+        ],
+        [
+          "AIFoundations",
+          97
+        ]
+      ]
+    },
+    {
+      "idx": 26,
+      "doc_name": "AIFoundations",
+      "gold_page": 104,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "AIFoundations",
+          104
+        ],
+        [
+          "AIFoundations",
+          103
+        ],
+        [
+          "AIFoundations",
+          107
+        ],
+        [
+          "AIFoundations",
+          106
+        ],
+        [
+          "WorldDevelopmentReport",
+          181
+        ],
+        [
+          "WorldDevelopmentReport",
+          33
+        ],
+        [
+          "AIFoundations",
+          96
+        ],
+        [
+          "AIFoundations",
+          101
+        ],
+        [
+          "WorldDevelopmentReport",
+          147
+        ],
+        [
+          "WorldDevelopmentReport",
+          182
+        ]
+      ]
+    },
+    {
+      "idx": 27,
+      "doc_name": "AIFoundations",
+      "gold_page": 108,
+      "rank_of_gold": 2,
+      "top10": [
+        [
+          "AIFoundations",
+          107
+        ],
+        [
+          "AIFoundations",
+          108
+        ],
+        [
+          "WorldDevelopmentReport",
+          136
+        ],
+        [
+          "AIFoundations",
+          84
+        ],
+        [
+          "AIFoundations",
+          96
+        ],
+        [
+          "AIFoundations",
+          101
+        ],
+        [
+          "AIFoundations",
+          94
+        ],
+        [
+          "AIFoundations",
+          17
+        ],
+        [
+          "AIFoundations",
+          103
+        ],
+        [
+          "WorldDevelopmentReport",
+          182
+        ]
+      ]
+    },
+    {
+      "idx": 28,
+      "doc_name": "AIFoundations",
+      "gold_page": 115,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "AIFoundations",
+          115
+        ],
+        [
+          "AIFoundations",
+          109
+        ],
+        [
+          "AIFoundations",
+          10
+        ],
+        [
+          "AIFoundations",
+          110
+        ],
+        [
+          "AIFoundations",
+          117
+        ],
+        [
+          "AIFoundations",
+          107
+        ],
+        [
+          "AIFoundations",
+          11
+        ],
+        [
+          "AIFoundations",
+          95
+        ],
+        [
+          "AIFoundations",
+          93
+        ],
+        [
+          "AIFoundations",
+          8
+        ]
+      ]
+    },
+    {
+      "idx": 29,
+      "doc_name": "AIFoundations",
+      "gold_page": 117,
+      "rank_of_gold": 1,
+      "top10": [
+        [
+          "AIFoundations",
+          117
+        ],
+        [
+          "AIFoundations",
+          53
+        ],
+        [
+          "WorldDevelopmentReport",
+          272
+        ],
+        [
+          "WorldDevelopmentReport",
+          242
+        ],
+        [
+          "WorldDevelopmentReport",
+          158
+        ],
+        [
+          "AIFoundations",
+          51
+        ],
+        [
+          "AIFoundations",
+          116
+        ],
+        [
+          "WorldDevelopmentReport",
+          198
+        ],
+        [
+          "WorldDevelopmentReport",
+          282
+        ],
+        [
+          "WorldDevelopmentReport",
+          56
+        ]
+      ]
+    }
+  ]
+}

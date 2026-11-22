@@ -1,0 +1,11 @@
+# Versions the project was developed and evaluated with (see evaluation/results/benchmark_v1/eval_config.json)
+colpali-engine>=0.3.18
+transformers>=5.22.1
+peft>=0.20.0
+torch>=2.13.0
+chromadb>=1.5.9
+google-genai>=3.6.1
+streamlit
+pdf2image
+pillow>=11.3.0
+numpy>=2.4.6

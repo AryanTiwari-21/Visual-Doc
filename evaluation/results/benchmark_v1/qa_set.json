@@ -1,0 +1,216 @@
+{
+  "qa_hash": "6057af19ccde7e1c",
+  "n_questions": 30,
+  "questions": [
+    {
+      "doc_name": "2407.01449v6",
+      "page": 1,
+      "modality": "text",
+      "question": "What is the name of the benchmark introduced in this paper for evaluating page-level document retrieval?",
+      "gold_answer": "ViDoRe (Visual Document Retrieval Benchmark)"
+    },
+    {
+      "doc_name": "2407.01449v6",
+      "page": 2,
+      "modality": "chart",
+      "question": "According to Figure 1, what is the offline indexing latency per page for ColPali, compared to the standard retrieval pipeline?",
+      "gold_answer": "ColPali: 0.39s/page; standard retrieval: 7.22s/page"
+    },
+    {
+      "doc_name": "2407.01449v6",
+      "page": 4,
+      "modality": "table",
+      "question": "According to Table 1, how many queries and how many documents does the DocVQA dataset contain in ViDoRe?",
+      "gold_answer": "500 queries and 500 documents"
+    },
+    {
+      "doc_name": "2407.01449v6",
+      "page": 5,
+      "modality": "chart",
+      "question": "According to Figure 2, what is the total per-page offline indexing latency for SigLIP?",
+      "gold_answer": "0.12 seconds"
+    },
+    {
+      "doc_name": "2407.01449v6",
+      "page": 7,
+      "modality": "table",
+      "question": "According to Table 2, what nDCG@5 score does ColPali achieve on the TabFQuAD (TabF) benchmark?",
+      "gold_answer": "83.9"
+    },
+    {
+      "doc_name": "2407.01449v6",
+      "page": 9,
+      "modality": "chart",
+      "question": "In the token pooling chart in Figure 3 (left panel), which ViDoRe dataset shows the most performance degradation as the pool factor increases?",
+      "gold_answer": "Shift"
+    },
+    {
+      "doc_name": "2407.01449v6",
+      "page": 18,
+      "modality": "table",
+      "question": "According to Table 4, what is ColPali's per-page embedding size in KB (float16), and how does it compare to BM25's sparse embedding size?",
+      "gold_answer": "ColPali: 257.5 KB; BM25 sparse: about 1.56 KB -- roughly two orders of magnitude smaller"
+    },
+    {
+      "doc_name": "2407.01449v6",
+      "page": 19,
+      "modality": "table",
+      "question": "According to Table 5, how long does the layout detection step take on average, per page, in the Unstructured pipeline?",
+      "gold_answer": "0.81 seconds"
+    },
+    {
+      "doc_name": "2407.01449v6",
+      "page": 21,
+      "modality": "table",
+      "question": "According to Table 6, what is ColPali's average Recall@1 score across all ViDoRe tasks?",
+      "gold_answer": "72.7"
+    },
+    {
+      "doc_name": "2407.01449v6",
+      "page": 22,
+      "modality": "chart",
+      "question": "In the similarity map example in Figure 6, which underlined query token is shown, and which offshore oil field also receives a high similarity score even though it is not the literal query word?",
+      "gold_answer": "Query token: 'Kazakhstan'; offshore oil field: 'Kashagan'"
+    },
+    {
+      "doc_name": "WorldDevelopmentReport",
+      "page": 36,
+      "modality": "text",
+      "question": "According to Box O.2, what share of households needed to be engaged in online commerce for a village to be considered a 'Taobao village'?",
+      "gold_answer": "At least 10 percent"
+    },
+    {
+      "doc_name": "WorldDevelopmentReport",
+      "page": 78,
+      "modality": "chart",
+      "question": "According to Figure 1.2 panel b, which type of internet use had the highest adoption rate among high-income OECD firms in 2010-14?",
+      "gold_answer": "E-mail (about 95 percent)"
+    },
+    {
+      "doc_name": "WorldDevelopmentReport",
+      "page": 83,
+      "modality": "chart",
+      "question": "According to Figure 1.7, in developing countries during 2010-14, which contributed more to growth: ICT capital or non-ICT capital?",
+      "gold_answer": "Non-ICT capital"
+    },
+    {
+      "doc_name": "WorldDevelopmentReport",
+      "page": 128,
+      "modality": "map",
+      "question": "According to Map 2.1, what was the national mobile phone adoption rate in Sub-Saharan Africa, circa 2014?",
+      "gold_answer": "63 percent"
+    },
+    {
+      "doc_name": "WorldDevelopmentReport",
+      "page": 132,
+      "modality": "table",
+      "question": "According to Table 2.2, what is the potential-impact rating for 'Connecting people to work and markets' on nonpoor consumers?",
+      "gold_answer": "H (high)"
+    },
+    {
+      "doc_name": "WorldDevelopmentReport",
+      "page": 155,
+      "modality": "chart",
+      "question": "According to Figure 2.24, which country has the lowest adjusted share of employment susceptible to automation?",
+      "gold_answer": "Uzbekistan"
+    },
+    {
+      "doc_name": "WorldDevelopmentReport",
+      "page": 198,
+      "modality": "chart",
+      "question": "According to Figure 3.14 panel a, around what year did the percentage of elections that are free and fair peak?",
+      "gold_answer": "Around 1990 (about 77 percent)"
+    },
+    {
+      "doc_name": "WorldDevelopmentReport",
+      "page": 227,
+      "modality": "infographic",
+      "question": "According to Figure B4.1.1, how many billion people have high-speed internet access, out of the roughly 7.4 billion global population?",
+      "gold_answer": "1.1 billion"
+    },
+    {
+      "doc_name": "WorldDevelopmentReport",
+      "page": 243,
+      "modality": "chart",
+      "question": "According to Figure 4.1, which of the four cost categories shown (storage, bandwidth, computing, smartphones) declined the least per year?",
+      "gold_answer": "Smartphone cost (about -5 percent per year)"
+    },
+    {
+      "doc_name": "WorldDevelopmentReport",
+      "page": 285,
+      "modality": "diagram",
+      "question": "According to Figure 5.7, under which skill category does 'manual dexterity and the use of methods, materials, tools, and instruments' fall?",
+      "gold_answer": "Technical"
+    },
+    {
+      "doc_name": "AIFoundations",
+      "page": 15,
+      "modality": "text",
+      "question": "According to the Main Messages section, what share of notable AI models do high-income countries (HICs) account for, as of July 2025?",
+      "gold_answer": "87 percent"
+    },
+    {
+      "doc_name": "AIFoundations",
+      "page": 37,
+      "modality": "map",
+      "question": "According to Map 1.1 panel a, what is the highest ChatGPT-traffic band shown, in millions of visits?",
+      "gold_answer": "482.9 million visits"
+    },
+    {
+      "doc_name": "AIFoundations",
+      "page": 40,
+      "modality": "chart",
+      "question": "According to Figure 1.4, which OECD country has the highest AI adoption rate among all firms (10+ employees)?",
+      "gold_answer": "Korea (KOR)"
+    },
+    {
+      "doc_name": "AIFoundations",
+      "page": 53,
+      "modality": "chart",
+      "question": "According to Figure 2.4, which country shows the highest growth rate in IT services exports, 2022-23?",
+      "gold_answer": "Cambodia (KHM)"
+    },
+    {
+      "doc_name": "AIFoundations",
+      "page": 85,
+      "modality": "chart",
+      "question": "According to Figure 4.3 panel c, what percentage of open-source data sets from Hugging Face are in English?",
+      "gold_answer": "56.3 percent"
+    },
+    {
+      "doc_name": "AIFoundations",
+      "page": 95,
+      "modality": "diagram",
+      "question": "According to Figure 5.1, what basic-level digital-skill activities are listed under 'Consumers'?",
+      "gold_answer": "Simple smartphone usage, basic internet, social media, digital payments"
+    },
+    {
+      "doc_name": "AIFoundations",
+      "page": 104,
+      "modality": "chart",
+      "question": "According to Figure 5.5 panel b, which country-income-group and skill-level combination shows the largest urban-rural gap in digital skills?",
+      "gold_answer": "LMICs at the Advanced skill level (about 5.2 percentage points)"
+    },
+    {
+      "doc_name": "AIFoundations",
+      "page": 108,
+      "modality": "chart",
+      "question": "According to Figure 5.8 panel a, which country has the highest ratio of high-skilled talent outflow to inflow?",
+      "gold_answer": "Ukraine (3.9)"
+    },
+    {
+      "doc_name": "AIFoundations",
+      "page": 115,
+      "modality": "table",
+      "question": "According to Table 6.1, what is recommended for 'Competency' in countries with High AI readiness?",
+      "gold_answer": "Develop advanced digital and AI skills; develop and support top-notch AI researchers; attract and retain talent"
+    },
+    {
+      "doc_name": "AIFoundations",
+      "page": 117,
+      "modality": "chart",
+      "question": "According to Figure 6.1, which country has the largest bubble (highest AI readiness scale value)?",
+      "gold_answer": "United States"
+    }
+  ]
+}

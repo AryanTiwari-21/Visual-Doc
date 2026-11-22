@@ -1,0 +1,151 @@
+{
+  "qa_hash": "6057af19ccde7e1c",
+  "best_text_arm": "ocr-bm25",
+  "arms": [
+    "colpali",
+    "ocr-bm25",
+    "ocr-dense",
+    "ocr-hybrid"
+  ],
+  "retrieval_overall": {
+    "colpali": {
+      "Recall@1": 0.8666666666666667,
+      "Recall@3": 0.9666666666666667,
+      "Recall@5": 0.9666666666666667,
+      "Recall@10": 1.0,
+      "MRR@10": 0.9103174603174603,
+      "nDCG@5": 0.9210309917857152
+    },
+    "ocr-bm25": {
+      "Recall@1": 0.7666666666666667,
+      "Recall@3": 0.9,
+      "Recall@5": 0.9333333333333333,
+      "Recall@10": 0.9666666666666667,
+      "MRR@10": 0.836111111111111,
+      "nDCG@5": 0.8564178688405436
+    },
+    "ocr-dense": {
+      "Recall@1": 0.36666666666666664,
+      "Recall@3": 0.7333333333333333,
+      "Recall@5": 0.9333333333333333,
+      "Recall@10": 0.9666666666666667,
+      "MRR@10": 0.5761111111111111,
+      "nDCG@5": 0.6608604706343417
+    },
+    "ocr-hybrid": {
+      "Recall@1": 0.4666666666666667,
+      "Recall@3": 0.9,
+      "Recall@5": 0.9333333333333333,
+      "Recall@10": 1.0,
+      "MRR@10": 0.697037037037037,
+      "nDCG@5": 0.7529646534554497
+    }
+  },
+  "recall1_by_modality": {
+    "chart": {
+      "n": 15,
+      "colpali": 0.8666666666666667,
+      "ocr-bm25": 0.8,
+      "ocr-dense": 0.4666666666666667,
+      "ocr-hybrid": 0.5333333333333333
+    },
+    "diagram": {
+      "n": 2,
+      "colpali": 1.0,
+      "ocr-bm25": 0.5,
+      "ocr-dense": 0.0,
+      "ocr-hybrid": 0.0
+    },
+    "infographic": {
+      "n": 1,
+      "colpali": 1.0,
+      "ocr-bm25": 1.0,
+      "ocr-dense": 0.0,
+      "ocr-hybrid": 0.0
+    },
+    "map": {
+      "n": 2,
+      "colpali": 1.0,
+      "ocr-bm25": 1.0,
+      "ocr-dense": 0.5,
+      "ocr-hybrid": 0.5
+    },
+    "table": {
+      "n": 7,
+      "colpali": 0.8571428571428571,
+      "ocr-bm25": 0.5714285714285714,
+      "ocr-dense": 0.2857142857142857,
+      "ocr-hybrid": 0.42857142857142855
+    },
+    "text": {
+      "n": 3,
+      "colpali": 0.6666666666666666,
+      "ocr-bm25": 1.0,
+      "ocr-dense": 0.3333333333333333,
+      "ocr-hybrid": 0.6666666666666666
+    }
+  },
+  "paired_vs_colpali": {
+    "ocr-bm25": {
+      "ColPali wins @1": "5",
+      "text wins @1": "2",
+      "ties": "23",
+      "sign-test p": "0.4531",
+      "dRecall@1": "0.1",
+      "dRecall@1 95% CI": "(np.float64(-0.067), np.float64(0.267))",
+      "dMRR@10": "0.074",
+      "dMRR@10 95% CI": "(np.float64(-0.046), np.float64(0.202))"
+    },
+    "ocr-dense": {
+      "ColPali wins @1": "16",
+      "text wins @1": "1",
+      "ties": "13",
+      "sign-test p": "0.0003",
+      "dRecall@1": "0.5",
+      "dRecall@1 95% CI": "(np.float64(0.3), np.float64(0.7))",
+      "dMRR@10": "0.334",
+      "dMRR@10 95% CI": "(np.float64(0.203), np.float64(0.463))"
+    },
+    "ocr-hybrid": {
+      "ColPali wins @1": "14",
+      "text wins @1": "2",
+      "ties": "14",
+      "sign-test p": "0.0042",
+      "dRecall@1": "0.4",
+      "dRecall@1 95% CI": "(np.float64(0.167), np.float64(0.6))",
+      "dMRR@10": "0.213",
+      "dMRR@10 95% CI": "(np.float64(0.078), np.float64(0.342))"
+    }
+  },
+  "generation": {
+    "n_finished": 30,
+    "colpali_accuracy": 0.9,
+    "ocr-bm25_accuracy": 0.8333333333333334,
+    "reused_from_eval1": 22,
+    "new_gemini_calls": 8
+  },
+  "efficiency": {
+    "ocr_s_per_page_mean": 20.076527695717846,
+    "text_kb_per_page": 3.4121787278071016,
+    "bm25_ms": 6.043045833333356,
+    "dense_ms": 129.72696080000787
+  },
+  "setup": {
+    "ocr_engine": "tesseract 5.3.4",
+    "dense_model": "BAAI/bge-small-en-v1.5",
+    "chunk_words": 180,
+    "chunk_stride": 120,
+    "rrf_k": 60,
+    "native_text_arm_included": false,
+    "python": "3.13.18",
+    "versions": {
+      "pytesseract": "0.3.13",
+      "rank-bm25": "0.2.2",
+      "sentence-transformers": "5.7.0",
+      "torch": "2.14.1+cpu",
+      "numpy": "2.4.6",
+      "pandas": "2.2.3",
+      "scipy": "1.16.3"
+    }
+  }
+}

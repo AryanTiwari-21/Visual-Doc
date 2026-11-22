@@ -1,0 +1,7 @@
+-r requirements.txt
+pandas
+scipy
+tabulate
+rank-bm25
+sentence-transformers
+pytesseract

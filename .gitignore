@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.pkl
+*.npy
+data/
+processed_images/
+chroma_db_storage/
+.venv/
+venv/
+.DS_Store
